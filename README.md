@@ -58,6 +58,15 @@ Testing Accuracy: 95.21%
 
 The model demonstrates extremely high reliability, making it robust enough for real-world application prototyping.
 
+## Dataset
+
+Original dataset sourced from Kaggle:
+
+USD Bill Classification Dataset by Aishwarya Hiremath
+
+Licensed under MIT License
+
+Link: https://www.kaggle.com/datasets/aishwaryatechie/usd-bill-classification-dataset
 
 ## 📂 Project Structure
 ```text

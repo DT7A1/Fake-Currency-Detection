@@ -1,0 +1,12 @@
+# Ignore dataset and generated data
+data/dataset/
+data/processed_data/
+data/final_split/
+
+# Ignore heavy model files and json file 
+models/*.h5
+models/class_indices.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc

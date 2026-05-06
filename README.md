@@ -25,6 +25,7 @@ The system is highly optimized, making it computationally lightweight and suitab
 1. Clone the repository:
 
 git clone [https://github.com/DT7A1/Fake-Currency-Detection.git](https://github.com/YourUsername/Fake-Currency-Detection.git)
+
 cd Fake-Currency-Detection
 
 2. Install dependencies:
